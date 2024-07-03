@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <div>
-        My name is Jose Luis Llácer and I am a **FULL STACK DEVELOPER**.<br>
+        My name is Jose Luis Llácer and I am a FULL STACK DEVELOPER.<br>
       I have studied Telecommunications Engineering and Business Administration.<br> I joined the `4Geeks Bootcamp` where I developed as a final project an airline software called JETStream. <br> 
         I am currently developing a football results App with `Flutter` using Firebase as backend.📱<br> 
         I am keen to solve problems and keep developing.🤓
